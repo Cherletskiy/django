@@ -1,0 +1,31 @@
+.vscode/
+media/
+__pycache__/
+
+# PyCharm configuration files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project specific (если используете Docker)
+docker-compose.override.yml
